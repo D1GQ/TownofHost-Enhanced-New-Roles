@@ -3,6 +3,7 @@ using InnerNet;
 using System;
 using System.Text;
 using TOHE.Roles.Core;
+using TOHE.Roles.Neutral;
 using UnityEngine;
 using static TOHE.Options;
 using static TOHE.Translator;
